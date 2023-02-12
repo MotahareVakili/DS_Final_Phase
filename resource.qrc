@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>download.png</file>
+        <file>images.png</file>
+        <file>p.png</file>
+        <file>iconfinder_4829864_arrow_back_left_icon_512px.png</file>
+    </qresource>
+</RCC>
